@@ -26,5 +26,16 @@
   },
   "dependencies": {
     "normalize.css": "~5.0.0"
-  }
+  },
+  "description": "> Сборка работает на gulp версии 4.0.",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pidzharenko/site-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pidzharenko/site-portfolio/issues"
+  },
+  "homepage": "https://github.com/Pidzharenko/site-portfolio#readme",
+  "keywords": []
 }
